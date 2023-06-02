@@ -1,0 +1,5 @@
+Browser chrome
+URL http://rmgtestingserver/domain/Student_Management_System/view/login.php
+username admin@gmail.com
+password 12345
+teacher t2@gmail.com
